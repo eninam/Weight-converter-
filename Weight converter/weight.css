@@ -1,0 +1,41 @@
+body {
+    background-color: #506980;
+    margin: auto;
+    width: 50%;
+    /* border: 3px solid green; */
+    padding: 10px;
+    margin-top: 10%;
+    font-display: 'Nanum Gothic', sans-serif;
+    text-align: 400px;
+}
+h1 {
+    margin-bottom: 3%;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+#kilo span, #gram span {
+    display:block;
+    
+}
+#kilo, #gram{
+   
+    margin-top: 5%;
+    width: 62%;
+    /* border: 3px solid green; */
+    text-align: left;
+    padding-top : 5%;
+    padding-bottom : 5%;
+    padding-left: 15px;
+    background-color: #60546b;
+    
+}
+
+
+
+input {
+    font-size:18pt;
+    height:50%;
+    width:60%;
+}
+
+
